@@ -1,5 +1,5 @@
 # The "Farmland Strikes Back!" Minecraft Mod
-The official GitHub for my mod "Farmland Stikes Back!" for Minecraft: Java Edition
+The official GitHub for my mod "Farmland Strikes Back!" for Minecraft: Java Edition
 
 Steps to activate:
 1. Find or place farmland.
